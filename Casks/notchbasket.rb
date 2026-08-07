@@ -1,6 +1,6 @@
 cask "notchbasket" do
-  version "1.0.4"
-  sha256 "cd57518d7dd3ef95bff89909c0c9cf684573c71e385f39a33946c4316ccdce63"
+  version "1.0.5"
+  sha256 "3135eb32441f8c1cf3be71fd227152976c43e6f98753f0822314fa470836798c"
 
   url "https://github.com/ikucukkaya/notch-games/releases/download/v#{version}/NotchBasket-#{version}.dmg"
   name "NotchBasket"
